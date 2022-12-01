@@ -1,4 +1,5 @@
 # TourestWeb🚶‍♂️🚶‍♀️
+Web for the curious tourist. Find your next destination!
 
 Create with Html, Css, and Js.
 
